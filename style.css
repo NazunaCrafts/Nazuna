@@ -216,8 +216,8 @@ ul{
     }
 
     .background-clip{
-        width: 100%;
-        height:auto;
+        width: auto;
+        height: 100%;
     }
 
     .col-3{
