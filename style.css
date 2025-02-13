@@ -55,6 +55,7 @@ p{
 .background-clip{
     position: absolute;
     right: 0;
+    left: 0;
     z-index: -1
 }
 .col-2 h1{
